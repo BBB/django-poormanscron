@@ -1,4 +1,3 @@
-# -*- coding: UTF-8 -*-
 from datetime import datetime
 from django.utils.translation import ugettext, ugettext_lazy as _
 from django.utils.encoding import force_unicode

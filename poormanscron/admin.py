@@ -1,4 +1,3 @@
-# -*- coding: UTF-8 -*-
 from django.contrib import admin
 from django.db import models
 ScheduledTask = models.get_model("poormanscron", "ScheduledTask")
